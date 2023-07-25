@@ -1,7 +1,7 @@
 <template>
   <teleport to="body">
     <div v-if="show" @click="tryClose" class="backdrop"></div>
-    <transitin name="dialog">
+    <transition name="dialog">
     <dialog open v-if="show">
       <header>
         <slot name="header">
@@ -17,7 +17,7 @@
         </slot>
       </menu>
     </dialog>
-  </transitin>
+  </transition>
   </teleport>
 </template>
 

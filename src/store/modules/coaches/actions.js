@@ -11,7 +11,8 @@ export default {
             areas:data.areas
         }
 
-        const response = await axios.put(`https://find-a-coach-17df2-default-rtdb.firebaseio.com/coaches/${userId}.json`, coachData);
+        const token= context.rootGetters.token;
+        const response = await axios.put(`https://find-a-coach-17df2-default-rtdb.firebaseio.com/coaches/${userId}.json?auth=${token}`, coachData);
 
     //   const responseData=await response.data;
 
