@@ -15,11 +15,11 @@ Welcome to the "Find a Coach" project, a platform where users can search for coa
 
 To get started with the "Find a Coach" project, follow these steps:
 
-1.  **Clone the Repository:**
-   - Clone this repository to your local machine using the following command:
+1. **Clone the Repository:**
+   Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/yourusername/forkify.git
+   git clone https://github.com/yourusername/find-a-coach.git
 Replace yourusername with your actual GitHub username.
 
 2.**Navigate to the Project Directory:**
