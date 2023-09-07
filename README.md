@@ -15,7 +15,7 @@ Welcome to the "Find a Coach" project, a platform where users can search for coa
 
 To get started with the "Find a Coach" project, follow these steps:
 
-1. 1. **Clone the Repository:**
+1.  **Clone the Repository:**
    - Clone this repository to your local machine using the following command:
 
    ```bash
