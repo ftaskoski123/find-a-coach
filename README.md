@@ -19,9 +19,8 @@ To get started with the "Find a Coach" project, follow these steps:
    Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/yourusername/find-a-coach.git
-Replace yourusername with your actual GitHub username.
-
+   git clone https://github.com/ftaskoski123/find-a-coach.git
+   
 2.**Navigate to the Project Directory:**
 
 Open a terminal or command prompt and navigate to the project directory
