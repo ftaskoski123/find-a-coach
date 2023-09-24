@@ -42,4 +42,6 @@ The app will be accessible in your web browser at http://localhost:8080 (or anot
 ## Explore and Connect:
 
 Use the platform to search for coaches, view their profiles, and contact them to kickstart your learning journey or career advancement.
+
+
 You can access the "Find a Coach" platform [here](https://ft-find-a-coach.netlify.app/).
